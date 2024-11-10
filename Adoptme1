@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://egorikusa.space/cedb8ada895871d341a8c6df.lua", true))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nischit785/Adopt-me-Visual-script/refs/heads/main/Visual%20Mfr%20Nfr%20Pets%20Opscript", true))()
